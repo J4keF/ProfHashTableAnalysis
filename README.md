@@ -4,4 +4,4 @@ A custom hash table (MyHashTable.java) to efficiently handle key-value pairs for
 
 Done as part of the 2023 Winter Semester COMP250 course @ McGill Univerity.
 
-An instructor-provided GUI displaying the results of the data processing is included in the files.
+Instructor-provided GUI files (launched by running Main.js) which display the results of the data processing, as well as a sample CSV to test the program are included in the repository.
